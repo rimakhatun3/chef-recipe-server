@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const port = process.env.PORT || 5000
 const cors = require('cors')
-const chefData = require('./data/ChefData.json')
+const chefData = require('./data/AllData.json')
 
 app.use(cors())
 app.get('/',(req,res)=>{
@@ -15,8 +15,8 @@ app.get('/chef',(req,res)=>{
 
 app.get('/chef/:id',(req,res)=>{
     const id = req.params.id;
-
-    const findedData = chefData.find(pd=>pd.id===id)
+console.log(id)
+    const findedData = chefData.find(pd=>pd.id==id)
     res.send(findedData)
 })
 

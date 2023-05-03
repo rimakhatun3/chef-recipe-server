@@ -1,0 +1,379 @@
+
+[
+    {
+        "id": "1",
+        "name": "Sanjeev Kapoor",
+        "image": "https://imgnew.outlookindia.com/public/uploads/articles/2020/10/10/sanjeev_kapoor-1.png",
+        "experience": 30,
+        "number_of_recepe": 500,
+        "likes": 1000000,
+        "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular TV show Khana Khazana, which aired more than 500 episodes. With over 30 years of experience, he has authored more than 150 cookbooks and has his own chain of restaurants worldwide.",
+        "recipes": [
+          {
+            "id": "1",
+            "recipe_name": "Butter Chicken",
+            "recipe_pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
+    
+            "ingredients": [
+              "boneless chicken",
+              "yogurt",
+              "butter",
+              "tomato puree",
+              "garam masala"
+            ],
+            "cooking_method": "Marinate chicken in a mixture of yogurt and spices. Grill or broil chicken until cooked through. In a separate pan, sauté onions and tomato puree. Add butter, cream, and spices, and stir until the sauce thickens. Add the cooked chicken to the sauce and serve hot.",
+            "rating": 4.5
+          },
+          {
+            "id": "2",
+            "recipe_name": "Palak Paneer",
+            "recipe_pic": "https://www.seriouseats.com/thmb/5mZwSRwo9Wff0om0ppnVtiD6ZNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+            "ingredients": [
+              "spinach",
+              "paneer",
+              "onion",
+              "tomato",
+              "ginger-garlic paste"
+            ],
+            "cooking_method": "Blanch spinach and grind it into a smooth paste. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the spinach paste and paneer cubes to the pan and cook until the paneer is soft. Serve hot with naan or rice.",
+            "rating": 4.0
+          },
+          {
+            "id": "3",
+            "recipe_name": "Chana Masala",
+            "recipe_pic": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
+            "ingredients": [
+              "chickpeas",
+              "onion",
+              "tomato",
+              "ginger-garlic paste",
+              "chana masala spice mix"
+            ],
+            "cooking_method": "Soak chickpeas overnight and cook until tender. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the cooked chickpeas to the pan and simmer for a few minutes. Serve hot with rice or naan.",
+            "rating": 4.2
+          },
+          {
+            "id": "4",
+            "recipe_name": "Aloo Gobi",
+            "recipe_pic": "https://simmertoslimmer.com/wp-content/uploads/2019/09/Instant-Pot-Aloo-Gobhi.jpg",
+            "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "cumin"],
+            "cooking_method": "Cut potatoes and cauliflower into small florets. In a separate pan, sauté onions and cumin seeds. Add tomatoes and spices, and stir until the mixture thickens. Add the potatoes and cauliflower to the pan and cook until tender. Serve hot with rice or naan.",
+            "rating": 3.8
+          }
+        ]
+      },
+    {
+      "id": 2,
+      "name": "Vikas Khanna",
+      "experience":"8 years",
+      "number_of_recepe" :800,
+      "Likes":15000,
+      "description": "Vikas Khanna has certainly made a name for himself, not just in India, but even internationally. He is a Michelin star chef and his restaurant Junoon has won Michelin stars for 6 consecutive years! In case you still don’t recognise him, he was the host of the MasterChef India Season 2. A great chef and an equally nice person, his passion for culinary art is enough to make you want to start cooking!",
+      "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
+      "recipes": [
+        {
+          "id": "1",
+          "recipe_name": "Butter Chicken",
+          "recipe_pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
+  
+          "ingredients": [
+            "boneless chicken",
+            "yogurt",
+            "butter",
+            "tomato puree",
+            "garam masala"
+          ],
+          "cooking_method": "Marinate chicken in a mixture of yogurt and spices. Grill or broil chicken until cooked through. In a separate pan, sauté onions and tomato puree. Add butter, cream, and spices, and stir until the sauce thickens. Add the cooked chicken to the sauce and serve hot.",
+          "rating": 4.5
+        },
+        {
+          "id": "2",
+          "recipe_name": "Palak Paneer",
+          "recipe_pic": "https://www.seriouseats.com/thmb/5mZwSRwo9Wff0om0ppnVtiD6ZNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+          "ingredients": [
+            "spinach",
+            "paneer",
+            "onion",
+            "tomato",
+            "ginger-garlic paste"
+          ],
+          "cooking_method": "Blanch spinach and grind it into a smooth paste. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the spinach paste and paneer cubes to the pan and cook until the paneer is soft. Serve hot with naan or rice.",
+          "rating": 4.0
+        },
+        {
+          "id": "3",
+          "recipe_name": "Chana Masala",
+          "recipe_pic": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "ginger-garlic paste",
+            "chana masala spice mix"
+          ],
+          "cooking_method": "Soak chickpeas overnight and cook until tender. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the cooked chickpeas to the pan and simmer for a few minutes. Serve hot with rice or naan.",
+          "rating": 4.2
+        },
+        {
+          "id": "4",
+          "recipe_name": "Aloo Gobi",
+          "recipe_pic": "https://simmertoslimmer.com/wp-content/uploads/2019/09/Instant-Pot-Aloo-Gobhi.jpg",
+          "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "cumin"],
+          "cooking_method": "Cut potatoes and cauliflower into small florets. In a separate pan, sauté onions and cumin seeds. Add tomatoes and spices, and stir until the mixture thickens. Add the potatoes and cauliflower to the pan and cook until tender. Serve hot with rice or naan.",
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vicky Ratnani",
+      "experience":"15 years",
+      "number_of_recepe" :900,
+      "Likes" :2000,
+      "description": "a dish consisting of a flat round cake of minced beef, or sometimes another savoury ingredient, that is fried or grilled and served in a split bun or roll with various condiments and toppings.a flat round cake of a savoury ingredient, typically minced beef.",
+      "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vicky-ratnani-1.jpg",
+      "recipes": [
+        {
+          "id": "1",
+          "recipe_name": "Butter Chicken",
+          "recipe_pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
+  
+          "ingredients": [
+            "boneless chicken",
+            "yogurt",
+            "butter",
+            "tomato puree",
+            "garam masala"
+          ],
+          "cooking_method": "Marinate chicken in a mixture of yogurt and spices. Grill or broil chicken until cooked through. In a separate pan, sauté onions and tomato puree. Add butter, cream, and spices, and stir until the sauce thickens. Add the cooked chicken to the sauce and serve hot.",
+          "rating": 4.5
+        },
+        {
+          "id": "2",
+          "recipe_name": "Palak Paneer",
+          "recipe_pic": "https://www.seriouseats.com/thmb/5mZwSRwo9Wff0om0ppnVtiD6ZNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+          "ingredients": [
+            "spinach",
+            "paneer",
+            "onion",
+            "tomato",
+            "ginger-garlic paste"
+          ],
+          "cooking_method": "Blanch spinach and grind it into a smooth paste. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the spinach paste and paneer cubes to the pan and cook until the paneer is soft. Serve hot with naan or rice.",
+          "rating": 4.0
+        },
+        {
+          "id": "3",
+          "recipe_name": "Chana Masala",
+          "recipe_pic": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "ginger-garlic paste",
+            "chana masala spice mix"
+          ],
+          "cooking_method": "Soak chickpeas overnight and cook until tender. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the cooked chickpeas to the pan and simmer for a few minutes. Serve hot with rice or naan.",
+          "rating": 4.2
+        },
+        {
+          "id": "4",
+          "recipe_name": "Aloo Gobi",
+          "recipe_pic": "https://simmertoslimmer.com/wp-content/uploads/2019/09/Instant-Pot-Aloo-Gobhi.jpg",
+          "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "cumin"],
+          "cooking_method": "Cut potatoes and cauliflower into small florets. In a separate pan, sauté onions and cumin seeds. Add tomatoes and spices, and stir until the mixture thickens. Add the potatoes and cauliflower to the pan and cook until tender. Serve hot with rice or naan.",
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pankaj Bhadouria",
+      "number_of_recepe" :500,
+      "Likes" : 16000,
+      "experience":"10 years",
+      "description": "A renowned name in the Indian culinary world, she is the winner of MasterChef India Season 1. Since then she has been spreading her love for cooking by teaching people recipes through several shows like ‘Chef Pankaj Ka Zayka’ and ‘3 Course with Pankaj’, to name a few.",
+      "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pankaj-bhadouria-1.jpg",
+      "recipes": [
+        {
+          "id": "1",
+          "recipe_name": "Butter Chicken",
+          "recipe_pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
+  
+          "ingredients": [
+            "boneless chicken",
+            "yogurt",
+            "butter",
+            "tomato puree",
+            "garam masala"
+          ],
+          "cooking_method": "Marinate chicken in a mixture of yogurt and spices. Grill or broil chicken until cooked through. In a separate pan, sauté onions and tomato puree. Add butter, cream, and spices, and stir until the sauce thickens. Add the cooked chicken to the sauce and serve hot.",
+          "rating": 4.5
+        },
+        {
+          "id": "2",
+          "recipe_name": "Palak Paneer",
+          "recipe_pic": "https://www.seriouseats.com/thmb/5mZwSRwo9Wff0om0ppnVtiD6ZNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+          "ingredients": [
+            "spinach",
+            "paneer",
+            "onion",
+            "tomato",
+            "ginger-garlic paste"
+          ],
+          "cooking_method": "Blanch spinach and grind it into a smooth paste. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the spinach paste and paneer cubes to the pan and cook until the paneer is soft. Serve hot with naan or rice.",
+          "rating": 4.0
+        },
+        {
+          "id": "3",
+          "recipe_name": "Chana Masala",
+          "recipe_pic": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "ginger-garlic paste",
+            "chana masala spice mix"
+          ],
+          "cooking_method": "Soak chickpeas overnight and cook until tender. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the cooked chickpeas to the pan and simmer for a few minutes. Serve hot with rice or naan.",
+          "rating": 4.2
+        },
+        {
+          "id": "4",
+          "recipe_name": "Aloo Gobi",
+          "recipe_pic": "https://simmertoslimmer.com/wp-content/uploads/2019/09/Instant-Pot-Aloo-Gobhi.jpg",
+          "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "cumin"],
+          "cooking_method": "Cut potatoes and cauliflower into small florets. In a separate pan, sauté onions and cumin seeds. Add tomatoes and spices, and stir until the mixture thickens. Add the potatoes and cauliflower to the pan and cook until tender. Serve hot with rice or naan.",
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vineet Bhatia",
+      "experience":"15 years",
+      "number_of_recepe" :800,
+      "Likes" : 2000,
+      "description": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!",
+      "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vineet-bhatia-1.jpg",
+      "recipes": [
+        {
+          "id": "1",
+          "recipe_name": "Butter Chicken",
+          "recipe_pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
+  
+          "ingredients": [
+            "boneless chicken",
+            "yogurt",
+            "butter",
+            "tomato puree",
+            "garam masala"
+          ],
+          "cooking_method": "Marinate chicken in a mixture of yogurt and spices. Grill or broil chicken until cooked through. In a separate pan, sauté onions and tomato puree. Add butter, cream, and spices, and stir until the sauce thickens. Add the cooked chicken to the sauce and serve hot.",
+          "rating": 4.5
+        },
+        {
+          "id": "2",
+          "recipe_name": "Palak Paneer",
+          "recipe_pic": "https://www.seriouseats.com/thmb/5mZwSRwo9Wff0om0ppnVtiD6ZNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+          "ingredients": [
+            "spinach",
+            "paneer",
+            "onion",
+            "tomato",
+            "ginger-garlic paste"
+          ],
+          "cooking_method": "Blanch spinach and grind it into a smooth paste. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the spinach paste and paneer cubes to the pan and cook until the paneer is soft. Serve hot with naan or rice.",
+          "rating": 4.0
+        },
+        {
+          "id": "3",
+          "recipe_name": "Chana Masala",
+          "recipe_pic": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "ginger-garlic paste",
+            "chana masala spice mix"
+          ],
+          "cooking_method": "Soak chickpeas overnight and cook until tender. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the cooked chickpeas to the pan and simmer for a few minutes. Serve hot with rice or naan.",
+          "rating": 4.2
+        },
+        {
+          "id": "4",
+          "recipe_name": "Aloo Gobi",
+          "recipe_pic": "https://simmertoslimmer.com/wp-content/uploads/2019/09/Instant-Pot-Aloo-Gobhi.jpg",
+          "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "cumin"],
+          "cooking_method": "Cut potatoes and cauliflower into small florets. In a separate pan, sauté onions and cumin seeds. Add tomatoes and spices, and stir until the mixture thickens. Add the potatoes and cauliflower to the pan and cook until tender. Serve hot with rice or naan.",
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Anahita Dhondy",
+      "experience":"5 years",
+      "Likes":800,
+      "number_of_recepe" :300,
+      "description": "Anahita Dhondy’s Insta-feed is filled with yummylicious recipes that will make you want to don your chef hat as well. From Parsi dishes to continental delights, you will find it all over here. With thorough instructions at one’s disposal, it is easier to follow her lead and make all the ah-mazing recipes!",
+      "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/anahita-1.jpg",
+      "recipes": [
+        {
+          "id": "1",
+          "recipe_name": "Butter Chicken",
+          "recipe_pic": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken.jpg",
+  
+          "ingredients": [
+            "boneless chicken",
+            "yogurt",
+            "butter",
+            "tomato puree",
+            "garam masala"
+          ],
+          "cooking_method": "Marinate chicken in a mixture of yogurt and spices. Grill or broil chicken until cooked through. In a separate pan, sauté onions and tomato puree. Add butter, cream, and spices, and stir until the sauce thickens. Add the cooked chicken to the sauce and serve hot.",
+          "rating": 4.5
+        },
+        {
+          "id": "2",
+          "recipe_name": "Palak Paneer",
+          "recipe_pic": "https://www.seriouseats.com/thmb/5mZwSRwo9Wff0om0ppnVtiD6ZNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+          "ingredients": [
+            "spinach",
+            "paneer",
+            "onion",
+            "tomato",
+            "ginger-garlic paste"
+          ],
+          "cooking_method": "Blanch spinach and grind it into a smooth paste. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the spinach paste and paneer cubes to the pan and cook until the paneer is soft. Serve hot with naan or rice.",
+          "rating": 4.0
+        },
+        {
+          "id": "3",
+          "recipe_name": "Chana Masala",
+          "recipe_pic": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "ginger-garlic paste",
+            "chana masala spice mix"
+          ],
+          "cooking_method": "Soak chickpeas overnight and cook until tender. In a separate pan, sauté onions and ginger-garlic paste. Add tomatoes and spices, and stir until the mixture thickens. Add the cooked chickpeas to the pan and simmer for a few minutes. Serve hot with rice or naan.",
+          "rating": 4.2
+        },
+        {
+          "id": "4",
+          "recipe_name": "Aloo Gobi",
+          "recipe_pic": "https://simmertoslimmer.com/wp-content/uploads/2019/09/Instant-Pot-Aloo-Gobhi.jpg",
+          "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "cumin"],
+          "cooking_method": "Cut potatoes and cauliflower into small florets. In a separate pan, sauté onions and cumin seeds. Add tomatoes and spices, and stir until the mixture thickens. Add the potatoes and cauliflower to the pan and cook until tender. Serve hot with rice or naan.",
+          "rating": 3.8
+        }
+      ]
+    }
+  ]
+
+
+
+    
