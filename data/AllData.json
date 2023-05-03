@@ -4,9 +4,9 @@
         "id": "1",
         "name": "Sanjeev Kapoor",
         "image": "https://imgnew.outlookindia.com/public/uploads/articles/2020/10/10/sanjeev_kapoor-1.png",
-        "experience": 30,
+        "experience": " 30 Years",
         "number_of_recepe": 500,
-        "likes": 1000000,
+        "Likes": 1000000,
         "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular TV show Khana Khazana, which aired more than 500 episodes. With over 30 years of experience, he has authored more than 150 cookbooks and has his own chain of restaurants worldwide.",
         "recipes": [
           {
